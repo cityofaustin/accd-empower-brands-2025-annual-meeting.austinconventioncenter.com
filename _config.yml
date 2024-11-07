@@ -10,6 +10,10 @@ utility_coordinator:
   name: Ben Hamilton
   email: ben.hamilton@austintexas.gov
   phone: 5124044236
+security_coordinator:
+  name: Marcela Lopes
+  email: marcela.lopes@austintexas.gov
+  phone: 5124044120
 sales_manager:
   name: Tina Travers, CMP
   email: tina.travers@austintexas.gov
